@@ -1,5 +1,6 @@
 UDIDead Bundle Maker:
-A little program I made for people to use when another new beta comes out and we havent made a bundle yet.
+=====================
+A little program I made for people to use when another new beta comes out and we haven't made a bundle yet.
 This requires Ionic.Zip
 
 args:
@@ -10,7 +11,8 @@ args:
 
 -o <output directory>
 
-By all means, use the code, but if it involves anything to do with UDIDead, please give credit.
+UDIDead bypasses the need to either purchase the iOS developer program or get your best hacker friend to register your UDID by simply using a redsn0w bundle.
+More info and short how to guide at our source:	
+http://www.letsunlockiphone.com/udidead-bundle-maker-beta-ios/
 
-Lots of love, 
-StanTheRipper.
+Developed by @StanTheRipper
